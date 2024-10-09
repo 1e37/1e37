@@ -1,27 +1,33 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
-  
-**🤖Artificial Intelligence** 
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello+im+David!+👋;+aka+1e37;Enjoy+exploring+my+GitHub!;" />
+</h1>
+	
+- 👾 I’m currently learning **OOP in PHP**
+	
+- 🪢 I do **Development**, **Networking**, and **Web Hosting**
 
-There’s going to be something more academic and something that fascinates me. 
-I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/AICMUniversity/aria)).
+- 💡 I will build **CRM** in near future
+	
+- 🪶 I will partly release new code **Snippsets** or **Projects**
+	
+- 📫 You can reach me heare: **dbz.work@outlook.de**
 
-**🎹Music Theories**
-
-I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understanding of the expressiveness and emotion of music. I also have a peculiar idea, which is to compose music in a programming language and program in a music language. I think this can create a new connection between music and programming, and also allow music and programming enthusiasts to learn and communicate with each other. 
-
-
-I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  and associated projects. If you are interested abou it, just [via me a work email](mailto:leader@hydroroll.team). 
+- <div align="center"> 
+  <a href="mailto:dbz.work@outlook.de">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  </a>
+</div>
 
 </td><td valign="top" width="33%">
 <p align="right">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello+im+David!+👋;+aka.+1e37;Enjoy+exploring+my+GitHub!;" />
-</h1>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux" /><br>
 </div>
-<h3 align="center">Fullstack Developer from Germany</h3>
+<h3 align="center">Hook everything.<br></h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1e37&show_icons=true&locale=en&layout=compact" alt="1e37" /></p>
 
@@ -30,8 +36,6 @@ I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  a
  My current projects:<br>
  **🧮 API Backends** <br>
  **🕵️ Thread Modeling** <br>
-  Contact me on:
-
  </div>
  
 <div align="center"> 
@@ -61,6 +65,9 @@ I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  a
  🛢 &nbsp;  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
             <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+	    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)sssss"/>
+
+     
   
               
  ⚙️ &nbsp;  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -96,7 +103,7 @@ I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  a
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1e37&show_icons=true" alt="1e37">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1e37" alt="1e37">
 	</a>
-	<br/>
+	<br/> <br/>
 	  
 </p
 
@@ -104,15 +111,15 @@ I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  a
   
 <div align="center">
   <h2>🍃 Watch my work grow🍃</h2>
-  <br>
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/1e37/1e37/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
-  
-  ***
-  
-<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+
+  <div align="center">
+ <img width="900" align="center" src="https://github.com/1e37/1e37/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+</div>
   
 </p>
 </td></tr></table>
