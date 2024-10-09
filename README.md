@@ -10,9 +10,7 @@
 - 💡 I will build **CRM** in near future
 	
 - 🪶 I will partly release new code **Snippsets** or **Projects**
-	
-- 📫 You can reach me heare: **dbz.work@outlook.de**
-
+ <h3 align="center">📫 You can reach me heare:</h3>	
 - <div align="center"> 
   <a href="mailto:dbz.work@outlook.de">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -27,26 +25,21 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux" /><br>
 </div>
-<h3 align="center">Hook everything.<br></h3>
+<h3 align="center">Hello!<br></h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1e37&show_icons=true&locale=en&layout=compact" alt="1e37" /></p>
 
 <div align="center">
  
- My current projects:<br>
- **🧮 API Backends** <br>
+ <b>My current Projects</b>:<br>
+ **🧮 GraphQL API Backend** <br>
  **🕵️ Thread Modeling** <br>
  </div>
  
-<div align="center"> 
-  <a href="mailto:dbz.work@outlook.de">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  </a>
-</div>
+
 </td></tr></table>
 
-<h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> </h2>
+<h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> </h2>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
  💻 &nbsp; <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
