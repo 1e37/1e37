@@ -6,10 +6,15 @@
 - 👾 I’m currently learning **OOP in PHP**
 	
 - 🪢 I do **Full Stack Development** aswell **Networking** of any type.
-
-- 💡 I will build **CRM** in near future
 	
 - 🪶 I will partly release new code **Snippsets** or **Projects**
+<div align="center">
+ 
+ <b> Current Projects</b>:<br>
+ **🧮 GraphQL API Backend** <br>
+  **🧮 CRM / Typescript frotend** <br>
+ **🕵️ Thread Modeling** <br>
+ </div>
  <h3 align="center">📫 You can reach me heare:</h3>	
 - <div align="center"> 
   <a href="mailto:dbz.work@outlook.de">
@@ -27,15 +32,7 @@
 </div>
 <h3 align="center">Hello!<br></h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1e37&show_icons=true&locale=en&layout=compact" alt="1e37" /></p>
-
-<div align="center">
- 
- <b>My current Projects</b>:<br>
- **🧮 GraphQL API Backend** <br>
- **🕵️ Thread Modeling** <br>
- </div>
- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1e37&show_icons=true&locale=en&layout=compact" alt="1e37" /></p> 
 
 </td></tr></table>
 
