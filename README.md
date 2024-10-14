@@ -5,7 +5,7 @@
 	
 - 👾 I’m currently learning **OOP in PHP**
 	
-- 🪢 I do **Development**, **Networking**, and **Web Hosting**
+- 🪢 I do **Full Stack Development** aswell **Networking** of any type.
 
 - 💡 I will build **CRM** in near future
 	
