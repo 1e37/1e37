@@ -5,13 +5,13 @@
 	
 - 👾 I’m currently learning **OOP in PHP**
 	
-- 🪢 I do **Full Stack Development** and **Networking** of any type.
+- 🪢 I do **Networking** and **Full Stack Development**
 	
 - 🪶 I will partly release new code **Snippsets** or **Projects**
 <div align="center">
  
- <b> Long-term-projects</b>:<br>
- **🧮 GraphQL API Backend** <br>
+ <b> Long-term-Projects</b>:<br>
+ **🧮 .NET/ GraphQL API Backend** <br>
   **🖼️ Typescript Frotend** <br>
  **🕵️ Thread Modeling** <br>
  </div>
