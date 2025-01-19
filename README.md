@@ -10,7 +10,7 @@
 - 🪶 I will partly release new code **Snippsets** or **Projects**
 <div align="center">
  
- <b> ~Projects im working in 2025~</b>:<br>
+ <b> Projects im working in 2025</b>:<br>
  **🧮 .NET/GraphQL Backend: The roommate who never leaves** <br>
  **🖼️ Typescript, a beauty that always inspires me** <br>
  **🕵️ LINDDUN, keeps me up at night** <br>
