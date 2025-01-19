@@ -5,15 +5,15 @@
 	
 - 👾 I’m currently learning **OOP in PHP**
 	
-- 🪢 I do **Networking** and **Full Stack Development**
+- 🪢 I am **Network Engineer** and **Full Stack Dev**
 	
 - 🪶 I will partly release new code **Snippsets** or **Projects**
 <div align="center">
  
- <b> Long-term-Projects</b>:<br>
- **🧮 .NET/ GraphQL API Backend** <br>
-  **🖼️ Typescript Frotend** <br>
- **🕵️ Thread Modeling** <br>
+ <b> ~Projects im working in 2025~</b>:<br>
+ **🧮 .NET/GraphQL Backend: The roommate who never leaves** <br>
+ **🖼️ Typescript, a beauty that always inspires me** <br>
+ **🕵️ LINDDUN, keeps me up at night** <br>
  </div>
  <h3 align="center">📫 You can reach me heare:</h3>	
  <div align="center"> 
