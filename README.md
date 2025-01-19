@@ -1,6 +1,6 @@
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello+im+David!+👋;+aka+1e37;Enjoy+exploring+my+GitHub!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello+im+David!+👋;Enjoy+exploring+my+GitHub!;" />
 </h1>
 	
 - 👾 I’m currently learning **OOP in PHP**
