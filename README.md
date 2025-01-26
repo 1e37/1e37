@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello+im+David!+👋;Enjoy+exploring+my+GitHub!;" />
 </h1>
 	
-- 👾 I’m currently learning **Protocols and API's**
+- 👾 I’m currently learning building **Protocols and API's**
 	
 - 🪢 I am **Network Engineer** and **Full Stack Dev**
 	
