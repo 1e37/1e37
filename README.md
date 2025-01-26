@@ -3,16 +3,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello+im+David!+👋;Enjoy+exploring+my+GitHub!;" />
 </h1>
 	
-- 👾 I’m currently learning **OOP in PHP**
+- 👾 I’m currently learning **Protocols and API's**
 	
 - 🪢 I am **Network Engineer** and **Full Stack Dev**
 	
 - 🪶 I will partly release new code **Snippsets** or **Projects**
 <div align="center">
  
- <b> Projects im working in 2025</b>:<br>
+ <b> Roadmap 2025</b>:<br>
  **🧮 .NET/GraphQL Backend: The roommate who never leaves** <br>
- **🖼️ Typescript, a beauty that always inspires me** <br>
+ **🖼️ Typescript, a beauty that inspires me** <br>
  **🕵️ LINDDUN, keeps me up at night** <br>
  </div>
  <h3 align="center">📫 You can reach me heare:</h3>	
