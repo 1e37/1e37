@@ -83,7 +83,7 @@
 
 
 <div align="center">
-  <h2>⚡ Analytics ⚡</h2>
+  <h2> 🍃 Analytics 🍃</h2>
 <br/>
 </div>
 <p align="center">
@@ -98,7 +98,7 @@
   ***
   
 <div align="center">
-  <h2>🍃 Watch my work grow🍃</h2>
+
 
 <!--  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/1e37/1e37/output/github-contribution-grid-snake.svg" /> !-->
 
