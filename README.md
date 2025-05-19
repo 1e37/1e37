@@ -81,9 +81,10 @@
 
 
 
-
+<p align="center">
 
   <h2> 🍃 Analytics 🍃</h2>
+  </p>
 <br/>
 
 <p align="center">
@@ -91,11 +92,11 @@
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1e37&show_icons=true" alt="1e37">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1e37" alt="1e37">
 	</a>
-	<br/> <br/>
+	<br/> <br/> </p>
 
  
 	  
-</p
+
 
   ***
   
