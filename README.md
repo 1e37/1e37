@@ -82,7 +82,7 @@
 
 
 
-<div align="center">
+
   <h2> 🍃 Analytics 🍃</h2>
 <br/>
 
@@ -93,7 +93,7 @@
 	</a>
 	<br/> <br/>
 
- </div>
+ 
 	  
 </p
 
