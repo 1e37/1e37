@@ -83,7 +83,7 @@
 
 
 
-  <p align="center"> <h2> 🍃 Analytics 🍃</h2> </p
+ <h2 align="center"> 🍃 Analytics 🍃</h2>
 <br/>
 
 <p align="center">
