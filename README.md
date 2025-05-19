@@ -100,14 +100,17 @@
 <div align="center">
   <h2>🍃 Watch my work grow🍃</h2>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/1e37/1e37/output/github-contribution-grid-snake.svg" />
+<!--  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/1e37/1e37/output/github-contribution-grid-snake.svg" /> !-->
+
+    <div align="center">
+ <img width="900" align="center" src="https://github.com/1e37/1e37/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+</div>
+  
   
   <br/>
 </div>
 
-  <div align="center">
- <img width="900" align="center" src="https://github.com/1e37/1e37/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-</div>
+
   
 </p>
 </td></tr></table>
