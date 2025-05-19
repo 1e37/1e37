@@ -100,7 +100,6 @@
 
   ***
   
-<div align="center">
 
 
 <!--  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/1e37/1e37/output/github-contribution-grid-snake.svg" /> !-->
